@@ -117,6 +117,8 @@ a:hover {
 	color: #fff;
 	transition-duration: 0.4s;
 	transition-property: max-height;
+	-webkit-transition-duration: 0.4s;
+	-webkit-transition-property: max-height;
 }
 
 .plattegrond {
